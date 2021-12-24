@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning ...
+  - SpringBoot Framework
+  - ELK Stack (Elasticsearch, Kibana, Logstash, Beat, Apm ...)
+  - MongoDB, Redis
+  - Python, Java
+  - DDD, MSA
+  - Lucene
+- 📫 How to reach me: ...
+  - shk3029@kakao.com   
 <!--
 **shk3029/shk3029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
