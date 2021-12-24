@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ...
-  - SpringBoot Framework
+  - Springboot Framework
   - ELK Stack (Elasticsearch, Kibana, Logstash, Beat, Apm ...)
   - MongoDB, Redis
   - Python, Java
