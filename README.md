@@ -4,7 +4,7 @@
   - ELK Stack
   - MongoDB, Redis
   - Python, Java
-  - DDD, MSA
+  - MSA
   - Lucene
 - 📫 How to reach me: ...
   - shk3029@kakao.com   
