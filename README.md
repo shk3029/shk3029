@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ...
   - Springboot Framework 
-  - Elastic Stack
+  - Elastic Stack (Elasticsearch, Logstash, Kibana, Apm ...)
   - MongoDB, Redis
   - Python, Java
   - MSA
