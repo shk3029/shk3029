@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently working on ...
+- 🌱 I’m currently learning on ...
   - Springboot Framework 
   - Elastic Stack (Elasticsearch, Logstash, Kibana, Apm ...)
   - MongoDB, Redis
