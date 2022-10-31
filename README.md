@@ -5,10 +5,9 @@
   - MongoDB, Redis
   - Python, Java
   - MSA
-  - Lucene
+ 
 - 🧢 I'm interested in ...
-  - Machine learning 
-  - Deep learning
+  - Docker, Kubernetes
 - 📫 How to reach me: ...
   - shk3029@kakao.com   
 <!--
