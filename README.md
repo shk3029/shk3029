@@ -7,7 +7,8 @@
   - MSA
  
 - 🧢 I'm interested in ...
-  - Docker, Kubernetes
+  - Kubernetes
+  
 - 📫 How to reach me: ...
   - shk3029@kakao.com   
 <!--
